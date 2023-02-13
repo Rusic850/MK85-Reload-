@@ -1,6 +1,8 @@
 # MK85-Reload-
 New Elektronika MK-85 files;
 
+![MK85Reload](/Pictures/IMG_20201219_152831~2.jpg)
+
 Файлы для модернизации калькулятора Электроника МК-85; Разводка печатных плат выполнена в Sprint Layout 6;
 
 ![MPUpcb](/Pictures/MPU-Mod.jpg) ![USBpcb](/Pictures/USB-Mod.jpg)
